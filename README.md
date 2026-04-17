@@ -1,3 +1,5 @@
+test 
+
 # I-Cost Group Static Website
 
 This repository is now organized as a simple multi-page static site, suitable for shared hosting platforms like HestiaCP.
